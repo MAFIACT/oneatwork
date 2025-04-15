@@ -14,7 +14,7 @@
     "ethers": "^6.7.0",
     "wagmi": "^2.6.0",
     "viem": "^2.5.0",
-    "@web3modal/wagmi": "^2.4.2"
+    "@web3modal/wagmi": "2.3.0"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1",
